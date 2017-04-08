@@ -11,7 +11,7 @@ Simple Chrome extension allows hide rows have Citadel alert.
 3 - Go to chrome extensions managment. Tip: you can write in your address bar -> chrome://extensions/  
 4 - Enable Developer mode.  
 5 - Add uncompressed extension and enable it.  
-6 - Now you are seeing in a new button in extension area: http://image.prntscr.com/image/dc752cebd0d144e1a6f1dc722bf869b3.png  
+6 - Now you are seeing in a new button in extensions area: http://image.prntscr.com/image/dc752cebd0d144e1a6f1dc722bf869b3.png  
 
 ## API Reference
 
