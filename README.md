@@ -15,7 +15,7 @@ Simple Chrome extension allows hide rows have Citadel alert.
 
 ## How to use extension
 
-Access to Red Frof NCF tool and press extension button, Citadel rows will be hide.  
+Access to Red Frog NCF tool and press/click extension button, Citadel rows will be hide.  
 Refresh page/apply filters for unhide rows.  
 
 ## API Reference
