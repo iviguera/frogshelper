@@ -4,7 +4,7 @@ var r = 0;
 while(row = contracts_table.rows[r])
 {
 	var row_html = row.innerHTML;
-	if(row_html.includes("Citadel") || row_html.includes("Too large ") || row_html.includes("No collateral") || row_html.includes("High collateral")) {
+	if(row_html.includes("Citadel") || row_html.includes("Too large") || row_html.includes("No collateral") || row_html.includes("High collateral")) {
 		row.style.display = "none";
 	}
 	r++;
